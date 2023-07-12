@@ -1,0 +1,168 @@
+E:\עמיחי\שנה א\memory\memory\bin\memory.dll.config
+E:\עמיחי\שנה א\memory\memory\bin\memory.dll
+E:\עמיחי\שנה א\memory\memory\bin\memory.pdb
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\csc.exe
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\csc.exe.config
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\csc.rsp
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\csi.exe
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\csi.exe.config
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\csi.rsp
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.Managed.Core.targets
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.AppContext.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Collections.Immutable.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Console.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.IO.Compression.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.IO.FileSystem.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.IO.Pipes.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Reflection.Metadata.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.AccessControl.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.Claims.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.Principal.Windows.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.ValueTuple.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Xml.XmlDocument.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Xml.XPath.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\vbc.exe
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\vbc.exe.config
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\vbc.rsp
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\VBCSCompiler.exe
+E:\עמיחי\שנה א\memory\memory\bin\roslyn\VBCSCompiler.exe.config
+E:\עמיחי\שנה א\memory\memory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\עמיחי\שנה א\memory\memory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\עמיחי\שנה א\memory\memory\obj\Debug\memory.csprojAssemblyReference.cache
+E:\עמיחי\שנה א\memory\memory\obj\Debug\memory.csproj.CoreCompileInputs.cache
+E:\עמיחי\שנה א\memory\memory\obj\Debug\memory.csproj.CopyComplete
+E:\עמיחי\שנה א\memory\memory\obj\Debug\memory.dll
+E:\עמיחי\שנה א\memory\memory\obj\Debug\memory.pdb
+F:\עמיחי\שנה א\memory\memory\bin\memory.dll.config
+F:\עמיחי\שנה א\memory\memory\bin\memory.dll
+F:\עמיחי\שנה א\memory\memory\bin\memory.pdb
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\csc.exe
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\csc.exe.config
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\csc.rsp
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\csi.exe
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\csi.exe.config
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\csi.rsp
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.Managed.Core.targets
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.AppContext.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Collections.Immutable.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Console.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.IO.Compression.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.IO.FileSystem.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.IO.Pipes.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Reflection.Metadata.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.AccessControl.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.Claims.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.Principal.Windows.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.ValueTuple.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Xml.XmlDocument.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Xml.XPath.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\vbc.exe
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\vbc.exe.config
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\vbc.rsp
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\VBCSCompiler.exe
+F:\עמיחי\שנה א\memory\memory\bin\roslyn\VBCSCompiler.exe.config
+F:\עמיחי\שנה א\memory\memory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\עמיחי\שנה א\memory\memory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\עמיחי\שנה א\memory\memory\obj\Debug\memory.csprojAssemblyReference.cache
+F:\עמיחי\שנה א\memory\memory\obj\Debug\memory.csproj.CoreCompileInputs.cache
+F:\עמיחי\שנה א\memory\memory\obj\Debug\memory.csproj.CopyComplete
+F:\עמיחי\שנה א\memory\memory\obj\Debug\memory.dll
+F:\עמיחי\שנה א\memory\memory\obj\Debug\memory.pdb
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\memory.dll.config
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\memory.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\memory.pdb
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\csc.exe
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\csc.exe.config
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\csc.rsp
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\csi.exe
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\csi.exe.config
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\csi.rsp
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.Managed.Core.targets
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.AppContext.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.Collections.Immutable.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.Console.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.IO.Compression.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.IO.FileSystem.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.IO.Pipes.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.Reflection.Metadata.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.AccessControl.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.Claims.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.Security.Principal.Windows.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.ValueTuple.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.Xml.XmlDocument.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.Xml.XPath.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\vbc.exe
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\vbc.exe.config
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\vbc.rsp
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\VBCSCompiler.exe
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\roslyn\VBCSCompiler.exe.config
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\obj\Debug\memory.csprojAssemblyReference.cache
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\obj\Debug\memory.csproj.CoreCompileInputs.cache
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\obj\Debug\memory.csproj.CopyComplete
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\obj\Debug\memory.dll
+D:\גיבוי פנינה שנה א\עמיחי\שנה א\memory\memory\obj\Debug\memory.pdb

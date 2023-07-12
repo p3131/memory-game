@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="StyleSheet1.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="memoryBoard"> </div>
+
+    <button id="botton" onclick="new_board()" >START GAME</button>
+
+    <script>
+
+        var memoryArray = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"];
+        var pick_values = [];
+        var pick_ids = [];
+        var flip_cards = 0;
+
+        Array.prototype.shuffle = function () {
+            let i = this.length, j, temp;
+            while (--i > 0) {
+                j = Math.floor(Math.random() * (i));
+                temp = this[j];
+                this[j] = this[i];
+                this[i] = temp;
+            }
+        }
+
+        function new_board() {
+            flip_cards = 0;
+            var output = '';
+            memoryArray.shuffle();
+            for (let i = 0; i < memoryArray.length; i++) {
+                output += `<div id="card${i}" onclick="flip(this,memoryArray[${i}])" style="color:brown"></div>`;
+            }
+            document.getElementById("memoryBoard").innerHTML = output;
+        }
+
+
+        function flip(card, val) {
+            if (card.innerHTML == '' && pick_values.length < 2) {
+                card.style.background = "white";
+                card.innerHTML = val;
+
+                if (pick_ids.length == 0) {
+                    pick_values.push(val);
+                    pick_ids.push(card.id);
+                }
+
+                else if (pick_ids.length == 1) {
+                    pick_values.push(val);
+                    pick_ids.push(card.id);
+
+                    if (pick_values[0] == pick_values[1]) {
+                        flip_cards += 2;
+                        pick_values = [];
+                        pick_ids = [];
+
+                        if (flip_cards == memoryArray.length) {
+                            alert("You won!!!");
+                            new_board();
+                        }
+                    }
+                    else
+                        setTimeout(flipBack, 1000);
+                }
+            }
+        }
+
+        function flipBack() {
+            let a = document.getElementById(pick_ids[0]);
+            let b = document.getElementById(pick_ids[1]);
+            a.style.background = "brown";
+            a.innerHTML = "";
+            b.style.background = "brown";
+            b.innerHTML = "";
+            pick_values = [];
+            pick_ids = [];
+        }
+
+    </script>
+
+</body>
+</html>
